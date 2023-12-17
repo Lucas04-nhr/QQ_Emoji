@@ -773,6 +773,48 @@
       "EMCode": "10336"
     },
     {
+      "QSid": "353",
+      "QDes": "/拜托",
+      "IQLid": "353",
+      "AQLid": "353",
+      "EMCode": "10353"
+    },
+    {
+      "QSid": "355",
+      "QDes": "/耶",
+      "IQLid": "355",
+      "AQLid": "355",
+      "EMCode": "10355"
+    },
+    {
+      "QSid": "356",
+      "QDes": "/666",
+      "IQLid": "356",
+      "AQLid": "356",
+      "EMCode": "10356"
+    },
+    {
+      "QSid": "354",
+      "QDes": "/尊嘟假嘟",
+      "IQLid": "354",
+      "AQLid": "354",
+      "EMCode": "10354"
+    },
+    {
+      "QSid": "352",
+      "QDes": "/咦",
+      "IQLid": "352",
+      "AQLid": "352",
+      "EMCode": "10352"
+    },
+    {
+      "QSid": "357",
+      "QDes": "/裂开",
+      "IQLid": "357",
+      "AQLid": "357",
+      "EMCode": "10357"
+    },
+    {
       "QSid": "334",
       "QDes": "/虎虎生威",
       "IQLid": "334",
@@ -786,7 +828,7 @@
       "AQLid": "347",
       "EMCode": "10347"
     },
-	{
+  {
       "QSid": "348",
       "QDes": "/福萝卜",
       "IQLid": "348",
@@ -1079,15 +1121,45 @@
       "AniStickerId": "36"
     },
     {
-      "QSid": "340",
-      "QDes": "/热化了",
-      "IQLid": "340",
-      "AQLid": "340",
-	  "QHide": "1",
-      "EMCode": "10340",
+        "QSid": "340",
+        "QDes": "/热化了",
+        "IQLid": "340",
+        "AQLid": "340",
+      "QHide": "1",
+        "EMCode": "10340",
+        "AniStickerType": 1,
+        "AniStickerPackId": "1",
+        "AniStickerId": "23"
+    },
+    {
+      "QSid": "351",
+      "QDes": "/敲敲",
+      "IQLid": "351",
+      "AQLid": "351",
+      "EMCode": "10351",
       "AniStickerType": 1,
       "AniStickerPackId": "1",
-      "AniStickerId": "23"
+      "AniStickerId": "30"
+    },
+    {
+      "QSid": "349",
+      "QDes": "/坚强",
+      "IQLid": "349",
+      "AQLid": "349",
+      "EMCode": "10349",
+      "AniStickerType": 1,
+      "AniStickerPackId": "1",
+      "AniStickerId": "32"
+    },
+    {
+      "QSid": "350",
+      "QDes": "/贴贴",
+      "IQLid": "350",
+      "AQLid": "350",
+      "EMCode": "10350",
+      "AniStickerType": 1,
+      "AniStickerPackId": "1",
+      "AniStickerId": "31"
     },
     {
       "QSid": "114",
@@ -1098,6 +1170,28 @@
       "AniStickerType": 2,
       "AniStickerPackId": "1",
       "AniStickerId": "13"
+    },
+    {
+      "QSid": "358",
+      "QDes": "/骰子",
+      "IQLid": "358",
+      "AQLid": "358",
+	  "QHide": "1",
+      "EMCode": "10358",
+      "AniStickerType": 2,
+      "AniStickerPackId": "1",
+      "AniStickerId": "33"
+    },
+    {
+      "QSid": "359",
+      "QDes": "/包剪锤",
+      "IQLid": "359",
+      "AQLid": "359",
+	  "QHide": "1",
+      "EMCode": "10359",
+      "AniStickerType": 2,
+      "AniStickerPackId": "1",
+      "AniStickerId": "34"
     },
     {
       "QSid": "326",
@@ -1529,12 +1623,155 @@
       "EMCode": "20242"
     },
     {
+      "QSid": "273",
+      "QDes": "/我酸了",
+      "isStatic": "1",
+      "IQLid": "273",
+      "AQLid": "273",
+      "EMCode": "10273"
+    },
+    {
+      "QSid": "46",
+      "QDes": "/猪头",
+      "isStatic": "1",
+      "IQLid": "7",
+      "AQLid": "7",
+      "EMCode": "162"
+    },
+    {
+      "QSid": "112",
+      "QDes": "/菜刀",
+      "IQLid": "17",
+      "AQLid": "17",
+      "EMCode": "155"
+    },
+    {
+      "QSid": "56",
+      "QDes": "/刀",
+      "IQLid": "68",
+      "AQLid": "70",
+      "EMCode": "171"
+    },
+    {
+      "QSid": "169",
+      "QDes": "/手枪",
+      "isStatic": "1",
+      "IQLid": "139",
+      "AQLid": "141",
+      "EMCode": "121034"
+    },
+    {
+      "QSid": "171",
+      "QDes": "/茶",
+      "IQLid": "141",
+      "AQLid": "163",
+      "EMCode": "241"
+    },
+    {
+      "QSid": "59",
+      "QDes": "/便便",
+      "IQLid": "15",
+      "AQLid": "15",
+      "EMCode": "174"
+    },
+    {
+      "QSid": "144",
+      "QDes": "/喝彩",
+      "isStatic": "1",
+      "IQLid": "114",
+      "AQLid": "116",
+      "EMCode": "121009"
+    },
+    {
+      "QSid": "147",
+      "QDes": "/棒棒糖",
+      "isStatic": "1",
+      "IQLid": "117",
+      "AQLid": "119",
+      "EMCode": "121012"
+    },
+    {
+      "QSid": "89",
+      "QDes": "/西瓜",
+      "isStatic": "1",
+      "IQLid": "60",
+      "AQLid": "60",
+      "EMCode": "156"
+    },
+    {
+      "QSid": "148",
+      "QDes": "/喝奶",
+      "isStatic": "1",
+      "IQLid": "118",
+      "AQLid": "120",
+      "EMCode": "121013"
+    },
+    {
+      "QSid": "55",
+      "QDes": "/炸弹",
+      "isStatic": "1",
+      "IQLid": "16",
+      "AQLid": "16",
+      "EMCode": "170"
+    },
+    {
+      "QSid": "41",
+      "QDes": "/发抖",
+      "isStatic": "1",
+      "IQLid": "69",
+      "AQLid": "71",
+      "EMCode": "193"
+    },
+    {
+      "QSid": "125",
+      "QDes": "/转圈",
+      "IQLid": "95",
+      "AQLid": "97",
+      "EMCode": "195"
+    },
+    {
+      "QSid": "42",
+      "QDes": "/爱情",
+      "IQLid": "38",
+      "AQLid": "38",
+      "EMCode": "190"
+    },
+    {
+      "QSid": "43",
+      "QDes": "/跳跳",
+      "IQLid": "93",
+      "AQLid": "95",
+      "EMCode": "192"
+    },
+    {
+      "QSid": "86",
+      "QDes": "/怄火",
+      "IQLid": "94",
+      "AQLid": "96",
+      "EMCode": "194"
+    },
+    {
+      "QSid": "129",
+      "QDes": "/挥手",
+      "IQLid": "77",
+      "AQLid": "79",
+      "EMCode": "199"
+    },
+    {
       "QSid": "226",
       "QDes": "/拍桌",
       "IQLid": "196",
       "isCMEmoji": "1",
       "AQLid": "198",
       "EMCode": "297"
+    },
+    {
+      "QSid": "85",
+      "QDes": "/飞吻",
+      "isStatic": "1",
+      "IQLid": "47",
+      "AQLid": "47",
+      "EMCode": "191"
     },
     {
       "QSid": "215",
@@ -1560,7 +1797,7 @@
       "AQLid": "186",
       "EMCode": "284"
     },
-    {
+  {
       "QSid": "235",
       "QDes": "/颤抖",
       "IQLid": "205",
@@ -1599,6 +1836,21 @@
       "isCMEmoji": "1",
       "AQLid": "197",
       "EMCode": "296"
+    },
+    {
+      "QSid": "203",
+      "QDes": "/托脸",
+      "IQLid": "173",
+      "AQLid": "152",
+      "EMCode": "273"
+    },
+    {
+      "QSid": "235",
+      "QDes": "/颤抖",
+      "IQLid": "205",
+      "isCMEmoji": "1",
+      "AQLid": "207",
+      "EMCode": "305"
     },
     {
       "QSid": "241",
@@ -1647,6 +1899,14 @@
       "isCMEmoji": "1",
       "AQLid": "188",
       "EMCode": "286"
+    },
+    {
+      "QSid": "237",
+      "QDes": "/偷看",
+      "IQLid": "207",
+      "isCMEmoji": "1",
+      "AQLid": "209",
+      "EMCode": "307"
     },
     {
       "QSid": "218",
@@ -2161,6 +2421,297 @@
       "AQLid": "276",
 	  "QHide": "1",
       "EMCode": "10276"
+    },
+    {
+      "QSid": "238",
+      "QDes": "/扇脸",
+      "IQLid": "208",
+      "isCMEmoji": "1",
+      "AQLid": "210",
+	  "QHide": "1",
+      "EMCode": "308"
+    },
+    {
+      "QSid": "217",
+      "QDes": "/扯一扯",
+      "IQLid": "187",
+      "isCMEmoji": "1",
+      "AQLid": "189",
+	  "QHide": "1",
+      "EMCode": "287"
+    },
+    {
+      "QSid": "225",
+      "QDes": "/撩一撩",
+      "IQLid": "195",
+      "isCMEmoji": "1",
+      "AQLid": "197",
+	  "QHide": "1",
+      "EMCode": "296"
+    },
+    {
+      "QSid": "230",
+      "QDes": "/嘲讽",
+      "IQLid": "200",
+      "isCMEmoji": "1",
+      "AQLid": "202",
+	  "QHide": "1",
+      "EMCode": "300"
+    },
+    {
+      "QSid": "194",
+      "QDes": "/不开心",
+      "IQLid": "164",
+      "AQLid": "143",
+	  "QHide": "1",
+      "EMCode": "264"
+    },
+    {
+      "QSid": "210",
+      "QDes": "/飙泪",
+      "IQLid": "180",
+      "AQLid": "159",
+	  "QHide": "1",
+      "EMCode": "280"
+    },
+    {
+      "QSid": "193",
+      "QDes": "/大笑",
+      "IQLid": "163",
+      "AQLid": "185",
+	  "QHide": "1",
+      "EMCode": "263"
+    },
+    {
+      "QSid": "204",
+      "QDes": "/吃",
+      "IQLid": "174",
+      "AQLid": "153",
+	  "QHide": "1",
+      "EMCode": "274"
+    },
+    {
+      "QSid": "200",
+      "QDes": "/求求",
+      "IQLid": "170",
+      "AQLid": "149",
+	  "QHide": "1",
+      "EMCode": "270"
+    },
+    {
+      "QSid": "290",
+      "QDes": "/敲开心",
+      "IQLid": "290",
+      "isCMEmoji": "1",
+      "AQLid": "290",
+	  "QHide": "1",
+      "EMCode": "20240"
+    },
+    {
+      "QSid": "224",
+      "QDes": "/开枪",
+      "IQLid": "194",
+      "isCMEmoji": "1",
+      "AQLid": "196",
+	  "QHide": "1",
+      "EMCode": "295"
+    },
+    {
+      "QSid": "229",
+      "QDes": "/干杯",
+      "IQLid": "199",
+      "isCMEmoji": "1",
+      "AQLid": "201",
+	  "QHide": "1",
+      "EMCode": "299"
+    },
+    {
+      "QSid": "221",
+      "QDes": "/顶呱呱",
+      "IQLid": "191",
+      "isCMEmoji": "1",
+      "AQLid": "193",
+	  "QHide": "1",
+      "EMCode": "291"
+    },
+    {
+      "QSid": "219",
+      "QDes": "/蹭一蹭",
+      "IQLid": "189",
+      "isCMEmoji": "1",
+      "AQLid": "191",
+	  "QHide": "1",
+      "EMCode": "289"
+    },
+    {
+      "QSid": "227",
+      "QDes": "/拍手",
+      "IQLid": "197",
+      "isCMEmoji": "1",
+      "AQLid": "199",
+	  "QHide": "1",
+      "EMCode": "294"
+    },
+    {
+      "QSid": "216",
+      "QDes": "/拍头",
+      "IQLid": "186",
+      "isCMEmoji": "1",
+      "AQLid": "188",
+	  "QHide": "1",
+      "EMCode": "286"
+    },
+    {
+      "QSid": "231",
+      "QDes": "/哼",
+      "IQLid": "201",
+      "isCMEmoji": "1",
+      "AQLid": "203",
+	  "QHide": "1",
+      "EMCode": "301"
+    },
+    {
+      "QSid": "244",
+      "QDes": "/扔狗",
+      "IQLid": "214",
+      "isCMEmoji": "1",
+      "AQLid": "216",
+	  "QHide": "1",
+      "EMCode": "312"
+    },
+    {
+      "QSid": "223",
+      "QDes": "/暴击",
+      "IQLid": "193",
+      "isCMEmoji": "1",
+      "AQLid": "195",
+	  "QHide": "1",
+      "EMCode": "293"
+    },
+    {
+      "QSid": "243",
+      "QDes": "/甩头",
+      "IQLid": "213",
+      "isCMEmoji": "1",
+      "AQLid": "215",
+	  "QHide": "1",
+      "EMCode": "313"
+    },
+    {
+      "QSid": "211",
+      "QDes": "/我不看",
+      "IQLid": "181",
+      "AQLid": "160",
+	  "QHide": "1",
+      "EMCode": "281"
+    },
+    {
+      "QSid": "292",
+      "QDes": "/让我康康",
+      "IQLid": "292",
+      "isCMEmoji": "1",
+      "AQLid": "292",
+	  "QHide": "1",
+      "EMCode": "20242"
+    },
+    {
+      "QSid": "240",
+      "QDes": "/喷脸",
+      "IQLid": "210",
+      "isCMEmoji": "1",
+      "AQLid": "212",
+	  "QHide": "1",
+      "EMCode": "310"
+    },
+    {
+      "QSid": "180",
+      "QDes": "/惊喜",
+      "IQLid": "150",
+      "AQLid": "172",
+	  "QHide": "1",
+      "EMCode": "250"
+    },
+    {
+      "QSid": "122",
+      "QDes": "/爱你",
+      "IQLid": "65",
+      "AQLid": "65",
+	  "QHide": "1",
+      "EMCode": "187"
+    },
+    {
+      "QSid": "202",
+      "QDes": "/无聊",
+      "IQLid": "172",
+      "AQLid": "151",
+	  "QHide": "1",
+      "EMCode": "272"
+    },
+    {
+      "QSid": "278",
+      "QDes": "/汗",
+      "IQLid": "278",
+      "isCMEmoji": "1",
+      "AQLid": "278",
+	  "QHide": "1",
+      "EMCode": "20237"
+    },
+    {
+      "QSid": "301",
+      "QDes": "/好闪",
+      "IQLid": "301",
+      "AQLid": "301",
+	  "QHide": "1",
+      "EMCode": "10301"
+    },
+    {
+      "QSid": "288",
+      "QDes": "/请",
+      "IQLid": "288",
+      "AQLid": "288",
+	  "QHide": "1",
+      "EMCode": "10288"
+    },
+    {
+      "QSid": "322",
+      "QDes": "/拒绝",
+      "IQLid": "322",
+      "AQLid": "322",
+	  "QHide": "1",
+      "EMCode": "10322"
+    },
+    {
+      "QSid": "198",
+      "QDes": "/呃",
+      "IQLid": "168",
+      "AQLid": "147",
+	  "QHide": "1",
+      "EMCode": "268"
+    },
+	{
+      "QSid": "348",
+      "QDes": "/福萝卜",
+      "IQLid": "348",
+      "AQLid": "348",
+	  "QHide": "1",
+      "EMCode": "10348"
+    },
+    {
+      "QSid": "206",
+      "QDes": "/害怕",
+      "IQLid": "176",
+      "AQLid": "155",
+	  "QHide": "1",
+      "EMCode": "276"
+    },
+    {
+      "QSid": "239",
+      "QDes": "/原谅",
+      "IQLid": "209",
+      "isCMEmoji": "1",
+      "AQLid": "211",
+	  "QHide": "1",
+      "EMCode": "309"
     }
   ],
   "emoji": [
